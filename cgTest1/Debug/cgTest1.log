@@ -1,0 +1,67 @@
+﻿生成启动时间为 2017/6/4 9:39:54。
+     1>项目“E:\计算机图形学\实验\CgTest1\cgTest1\cgTest1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Visual Studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\cgTest1.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt cgTest1View.cpp
+         cgTest1View.cpp
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(86): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(286): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(304): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(305): warning C4553: “==”: 运算符不起任何作用；是否是有意使用“=”的?
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(330): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(348): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(350): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(516): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(517): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(606): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(607): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(608): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(609): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(614): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(615): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(616): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(617): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(638): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(639): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(640): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(641): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(646): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(647): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(648): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(649): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(667): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(668): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(669): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(670): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(675): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(676): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(677): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(678): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(696): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(697): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(698): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(699): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(704): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(705): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(706): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(707): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(732): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(733): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(734): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(735): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(740): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(741): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(742): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+     1>e:\计算机图形学\实验\cgtest1\cgtest1\cgtest1view.cpp(743): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+       Link:
+         D:\Visual Studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\计算机图形学\实验\CgTest1\Debug\cgTest1.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Visual Studio\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"E:\计算机图形学\实验\CgTest1\Debug\cgTest1.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\计算机图形学\实验\CgTest1\Debug\cgTest1.lib" /MACHINE:X86 Debug\cgTest1.res
+         Debug\cgTest1.obj
+         Debug\cgTest1Doc.obj
+         Debug\cgTest1View.obj
+         Debug\MainFrm.obj
+         Debug\stdafx.obj
+         cgTest1.vcxproj -> E:\计算机图形学\实验\CgTest1\Debug\cgTest1.exe
+     1>已完成生成项目“E:\计算机图形学\实验\CgTest1\cgTest1\cgTest1.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.06
